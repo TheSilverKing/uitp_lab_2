@@ -1,0 +1,3 @@
+﻿  ToUpper.cpp
+C:\Users\POPOV\Downloads\tikhonov\ToUpper\ToUpper\ToUpper.cpp(4,9): warning C4101: result_symbol: неиспользованная локальная переменная
+  ToUpper.vcxproj -> C:\Users\POPOV\Downloads\tikhonov\ToUpper\Debug\ToUpper.exe
