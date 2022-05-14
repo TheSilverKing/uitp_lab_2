@@ -1,0 +1,9 @@
+﻿  StudentsList.cpp
+C:\Users\POPOV\Downloads\tikhonov\StudentsList\StudentsList\StudentsList.cpp(59,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\POPOV\Downloads\tikhonov\StudentsList\StudentsList\StudentsList.cpp(66,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\POPOV\Downloads\tikhonov\StudentsList\StudentsList\StudentsList.cpp(96,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\POPOV\Downloads\tikhonov\StudentsList\StudentsList\StudentsList.cpp(139,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\POPOV\Downloads\tikhonov\StudentsList\StudentsList\StudentsList.cpp(149,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\POPOV\Downloads\tikhonov\StudentsList\StudentsList\StudentsList.cpp(163,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\POPOV\Downloads\tikhonov\StudentsList\StudentsList\StudentsList.cpp(174,31): warning C4018: <: несоответствие типов со знаком и без знака
+  StudentsList.vcxproj -> C:\Users\POPOV\Downloads\tikhonov\StudentsList\Debug\StudentsList.exe

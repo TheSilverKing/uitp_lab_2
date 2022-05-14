@@ -16,5 +16,6 @@ int main()
     std::cin >> sym;
     char result = ToUpper(sym);
     std::cout << result << std::endl;
+    std::cout << endl;
 }
 
